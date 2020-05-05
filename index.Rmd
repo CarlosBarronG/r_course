@@ -1,0 +1,27 @@
+---
+title: "Inicio"
+---
+
+<img src="imagen_R.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+Se te invita cordialmente al *curso-taller*:  
+**“USO DE R PARA LA VISUALIZACIÓN Y ANÁLISIS DE DATOS ESTADÍSTICOS EN BIOMEDICINA”**  
+¿Sabías que dentro de la biomedicina el análisis de la
+**información ómica** está **revolucionando** las nuevas
+maneras de hacer **investigación** llegando a **publicar**
+**conocimiento** nuevo **sin** la necesidad de realizar
+**experimentos**?  
+Cómo investigador, ¿Te gustaría **aprender** a utilizar
+una de las principales **herramientas** en el análisis
+**bioinformático** de datos?  
+*NO TE QUEDES FUERA DE LA NUEVA ERA TECNOLÓGICA, EL FUTURO ES HOY.*  
+
+**INICIO 18 DE MAYO - TERMINA EL 1 JUNIO**  
+
+HORARIO 9:00-11:00 am  
+
+**Plataforma:** Adobe Connect  
+
+**Costo** $500
+
+**Instructor** Carlos Barrón [click para información](https://carlosbarrong.github.io/mywebpage)

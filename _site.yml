@@ -1,0 +1,15 @@
+name: "Curso R"
+output_dir: "."
+navbar:
+  title: **"R para la visualización y análisis de datos en biomedicina"**
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Contenido"
+      href: about.html
+    - text: "Inscripciones"
+      href: contact.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

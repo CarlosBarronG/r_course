@@ -1,0 +1,41 @@
+---
+title: "Contenido"
+---
+
+
+Dentro de este *curso-taller* se abordarán temas que te introduciran a lo que es el maravilloso mundo de R y su uso en el análisis y visualización de datos biológicos.  
+Para ello se enlista el temario a lo largo de la duración del curso:  
+
+* DIA 1
+  + Que es R?
+  + Instalación de R
+  + Ventanas y ambiente de R
+  + Estructura del lenguaje en R
+  + Ayuda en R
+  + Instalación y uso de librerias
+* DIA 2
+  + Tipo de objetos y datos
+  + Creación de data.frame y tibblet
+  + Importacion y exportación de datos
+  + Visualización de datos
+* DIA 3 Y 4
+  + Modificación, filtración y transformación de variables
+  + Uso de pipes
+* DIA 5 Y 6
+  + Creación de gráficos con múltiples variables
+* DIA 7
+  + Markdown
+  + Estadística descriptiva
+  + Medidas de tendencia central
+  + Medidas de dispersión 
+  + Creación de gráficos básicos para visualización de datos
+* DIA 8
+  + T-student
+  + X-cuadrada
+  + Prueba de fisher
+  + Wilcoxon.
+* DIA 9
+  + Regresión lineal
+  + Regresión logística
+* DIA 10
+  + ANOVA
