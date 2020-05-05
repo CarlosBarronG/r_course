@@ -1,7 +1,7 @@
 name: "Curso R"
 output_dir: "."
 navbar:
-  title: **"R para la visualización y análisis de datos en biomedicina"**
+  title: "R para la visualización y análisis de datos en biomedicina"
   left:
     - text: "Inicio"
       href: index.html
